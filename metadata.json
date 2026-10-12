@@ -1,0 +1,6 @@
+{
+  "name": "Dheer Agro Global",
+  "description": "B2B hydroponic maize, fresh green fodder, and agricultural export supply from Khagaria, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
